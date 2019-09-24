@@ -238,8 +238,8 @@ This repository consist of presentations prepared by the authors.
   </tr>
   <tr>
     <td>Modelling</td>
-    <td>Ewelina Osowska</td>
-    <td><a href="">The impact of Federal Open Market Comitee minutes on financial markets</a></td>
+    <td>Matteo Fasiolo</td>
+    <td><a href="">Generalized additive models for short-term electricity demand forecasting</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
