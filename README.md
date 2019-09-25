@@ -307,7 +307,7 @@ This repository consist of presentations prepared by the authors.
   
   <tr>
     <td>Vision</td>
-    <td>Olgun AYDIN</td>
+    <td>Olgun Aydin</td>
     <td><a href="">A Case Study for Image Classification using Transfer Learning</a></td>
   </tr>
   <tr>
