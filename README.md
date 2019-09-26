@@ -193,7 +193,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Łukasz Wawrowski</td>
-    <td><a href="">Testing games artificial intelligence algorithms in Shiny</a></td>
+    <td><a href="https://lwawrowski.github.io/whyr2019/whyr2019.html" target="_blank">Testing artificial intelligence algorithms in games with Shiny</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
