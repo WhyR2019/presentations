@@ -173,7 +173,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Dominik Rafacz</td>
-    <td><a href="">autobiograML: towards automated machine learning in protein function prediction</a></td>
+    <td><a href="">AmyloGram 2.0: MBO in the prediction of amyloid proteins</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
