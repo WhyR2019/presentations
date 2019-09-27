@@ -59,7 +59,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>BIO</td>
     <td>Jaroslaw Chilimoniuk</td>
-    <td><a href="">AmyloGram: the R package and a Shiny server for amyloid prediction</a></td>
+    <td><a href="./BIO/AmyloGram.html">AmyloGram: the R package and a Shiny server for amyloid prediction</a></td>
   </tr>
   <tr>
     <td>BIO</td>
