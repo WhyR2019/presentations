@@ -17,7 +17,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Marvin N. Wright</td>
-    <td><a href="">Random forests: The first-choice method for every data analysis?</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/Keynotes/Marvin_Wright_RF.pdf">Random forests: The first-choice method for every data analysis?</a></td>
   </tr>
   <tr>
     <td>Keynotes</td>
@@ -208,8 +208,8 @@ This repository consist of presentations prepared by the authors.
   
    <tr>
     <td>Modelling</td>
-    <td>Bartosz Kolasa</td>
-    <td><a href="">Custom loss functions for binary classifications problem with highly imbalanced dataset using Extremely Gradient Boosted Trees</a></td>
+    <td>Bartosz Kolasa, Patryk Wielopolski</td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/Modelling/Custom%20loss%20functions%20for%20binary%20classification%20problems%20with%20highly%20imbalanced%20dataset%20using%20Extreme%20Gradient%20Boosted%20Trees.pdf">Custom loss functions for binary classifications problem with highly imbalanced dataset using Extremely Gradient Boosted Trees</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
