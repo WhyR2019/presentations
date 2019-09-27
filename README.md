@@ -233,11 +233,6 @@ This repository consist of presentations prepared by the authors.
   </tr>
   <tr>
     <td>Modelling</td>
-    <td>Hamdan Azhar</td>
-    <td><a href="">How I became an emoji data scientist (using R!)</a></td>
-  </tr>
-  <tr>
-    <td>Modelling</td>
     <td>Matteo Fasiolo</td>
     <td><a href="">Generalized additive models for short-term electricity demand forecasting</a></td>
   </tr>
