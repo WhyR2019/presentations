@@ -219,7 +219,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Modelling</td>
     <td>Barbara Jancewicz</td>
-    <td><a href="">Multidimensional Scaling with the smacof package</a></td>
+    <td><a href="./Modelling/Jancewicz_Multidimensional%20Scaling.pdf">Multidimensional Scaling with the smacof package</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
