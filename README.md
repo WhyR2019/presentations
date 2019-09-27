@@ -219,7 +219,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Modelling</td>
     <td>Barbara Jancewicz</td>
-    <td><a href="./blob/master/API/Presentation_WHYR2019_Warsaw_Bourgeois.pdf">Multidimensional Scaling with the smacof package</a></td>
+    <td><a href="./API/Presentation_WHYR2019_Warsaw_Bourgeois.pdf">Multidimensional Scaling with the smacof package</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
