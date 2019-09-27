@@ -48,12 +48,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>API</td>
     <td>Florent Bourgeois</td>
-    <td><a href="">Bringing interactivity into engineering courses with BERT-based Excel-R applications</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/API/Presentation_WHYR2019_Warsaw_Bourgeois.pdf">Bringing interactivity into engineering courses with BERT-based Excel-R applications</a></td>
   </tr>
   <tr>
     <td>API</td>
     <td>Leszek Sieminski</td>
-    <td><a href="">Google PageSpeed with R</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/API/Presentation_WHYR2019_Warsaw_PageSpeed.pdf">Google PageSpeed with R</a></td>
   </tr>
   
   <tr>
@@ -95,7 +95,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Business</td>
     <td>Richard Louden</td>
-    <td><a href="">Integrating R and Python for reproducible business analytics</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/Business/Reproducibility%20and%20collaboration%20in%20business%20analytics_RL.pdf">Integrating R and Python for reproducible business analytics</a></td>
   </tr>
   <tr>
     <td>Business</td>
@@ -132,7 +132,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>GEO</td>
     <td>Maria Mikos</td>
-    <td><a href="">Spatial econometrics with self-made weighting matrixes - uncovering similarity of sample with machine learning results and categorical variables</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/GEO/Spatial%20matrix%20approach%20whyR%20Mikos.pptx">Spatial econometrics with self-made weighting matrixes - uncovering similarity of sample with machine learning results and categorical variables</a></td>
   </tr>
   
   <tr>
@@ -323,7 +323,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Vision</td>
     <td>Michal Maj</td>
-    <td><a href="">Semantic segmentation using U-Net with R</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/tree/master/Vision/Semantic%20segmentation%20-%20Whyr2019%20-%20Micha%C5%82%20Maj">Semantic segmentation using U-Net with R</a></td>
   </tr>
   
   <tr>
