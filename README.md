@@ -43,7 +43,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>API</td>
     <td>Piotrek Ciurus</td>
-    <td><a href="">Automating Google Slides creation</a></td>
+    <td><a href="https://github.com/pici90/presentations/blob/master/API/WhyR_2019_Automating_GoogleSlides.pdf">Automating Google Slides creation</a></td>
   </tr>
   <tr>
     <td>API</td>
