@@ -84,7 +84,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>BIO</td>
     <td>Piotr Nowosielski</td>
-    <td><a href="">R in Ministry of Health</a></td>
+    <td><a href="./BIO/20190928_R_at_the_Ministry.pdf">R in Ministry of Health</a></td>
   </tr>
   
   <tr>
