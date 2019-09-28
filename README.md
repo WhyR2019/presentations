@@ -313,7 +313,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Vision</td>
     <td>Pablo Maldonado</td>
-    <td><a href="">DeepSport: A Shiny app for sports video analysis</a></td>
+    <td><a href="./Vision/WhyR - DeepSport.pdf">DeepSport: A Shiny app for sports video analysis</a></td>
   </tr>
   <tr>
     <td>Vision</td>
