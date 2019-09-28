@@ -245,7 +245,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Philosophy</td>
     <td>Colin Gillespie</td>
-    <td><a href="">Hacking R as a script kiddie</a></td>
+    <td><a href="https://www.jumpingrivers.com/t/2019-whyr">Hacking R as a script kiddie</a></td>
   </tr>
   <tr>
     <td>Philosophy</td>
