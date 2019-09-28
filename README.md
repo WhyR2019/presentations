@@ -79,7 +79,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>BIO</td>
     <td>Weronika Puchala</td>
-    <td><a href="">R for experimentalists: HDX-MS example</a></td>
+    <td><a href="./BIO/hadex.pdf">R for experimentalists: HDX-MS example</a></td>
   </tr>
   <tr>
     <td>BIO</td>
