@@ -244,11 +244,6 @@ This repository consist of presentations prepared by the authors.
   
   <tr>
     <td>Philosophy</td>
-    <td>Dorota Celinska-Kopczynska</td>
-    <td><a href="">Collective intelligence in GitHub teams</a></td>
-  </tr>
-  <tr>
-    <td>Philosophy</td>
     <td>Colin Gillespie</td>
     <td><a href="">Hacking R as a script kiddie</a></td>
   </tr>
