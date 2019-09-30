@@ -22,7 +22,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Paula Brito</td>
-    <td><a href="">Modelling and Analysing Interval Data in R</a></td>
+    <td><a href="./Keynotes/WhyR2019_PBrito.pdf">Modelling and Analysing Interval Data in R</a></td>
   </tr>
   <tr>
     <td>Keynotes</td>
@@ -32,7 +32,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Steph Locke</td>
-    <td><a href="">Is data science experimenting on people?</a></td>
+    <td><a href="./Keynotes/Are we experimenting on people.pptx">Is data science experimenting on people?</a></td>
   </tr>
   <tr>
     <td>Keynotes</td>
@@ -106,12 +106,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>EDA</td>
     <td>Lidia Kolakowska</td>
-    <td><a href="">How to deal with nested lists in R? Using the purrr, furrr and future packages in practice</a></td>
+    <td><a href="./EDA/why_r_kolakowska.pptx">How to deal with nested lists in R? Using the purrr, furrr and future packages in practice</a></td>
   </tr>
   <tr>
     <td>EDA</td>
     <td>Tomasz Żółtak</td>
-    <td><a href="">MasteR of Tables</a></td>
+    <td><a href="./EDA/MasteR-of-Tables.pdf">MasteR of Tables</a></td>
   </tr>
   <tr>
     <td>EDA</td>
@@ -138,17 +138,17 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Anne Bras</td>
-    <td><a href="">Crazy Sequential Representations - The 10958 Problem</a></td>
+    <td><a href="./Lightnings/Crazy_Sequential_Representations__Anne_Bras.pdf">Crazy Sequential Representations - The 10958 Problem</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Hubert Baniecki</td>
-    <td><a href="">D3 + DALEX = Interactive Studio with Explanations for ML Predictive Models in R</a></td>
+    <td><a href="./Lightnings/hbaniecki_modelStudio_whyr2019.pptx">D3 + DALEX = Interactive Studio with Explanations for ML Predictive Models in R</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Dawid Kaledkowski</td>
-    <td><a href="">Don't walk, run! runner package for rolling window functions</a></td>
+    <td><a href="./Lightnings/whyr2019.pdf">Don't walk, run! runner package for rolling window functions</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
@@ -158,32 +158,32 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Mateusz Kobylka</td>
-    <td><a href="">RME: interpretable explainations for sequence models</a></td>
+    <td><a href="./Lightnings/MateuszKobylka_RME.pdf">RME: interpretable explainations for sequence models</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Kamil Sijko</td>
-    <td><a href="">Selling solutions based on R (which is GPL licensed). Is this possible?</a></td>
+    <td><a href="./Lightnings/2019WhyR_RGPL_commercial.pptx">Selling solutions based on R (which is GPL licensed). Is this possible?</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
-    <td> Patrik Drhlik</td>
+    <td>Patrik Drhlik</td>
     <td><a href="">Using R6 classes to communicate with a REST API</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Dominik Rafacz</td>
-    <td><a href="">AmyloGram 2.0: MBO in the prediction of amyloid proteins</a></td>
+    <td><a href="./Lightnings/presentation.pdf">AmyloGram 2.0: MBO in the prediction of amyloid proteins</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Krzysztof Kania</td>
-    <td><a href="">bdl: interface and tools to Local Data Bank API</a></td>
+    <td><a href="./Lightnings/bdl_WhyR_presentation.pptx">bdl: interface and tools to Local Data Bank API</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Katarzyna Sidorczuk</td>
-    <td><a href="">PepBay: Implementation of Bayesian inference in the analysis of peptide arrays</a></td>
+    <td><a href="./Lightnings/PepBay_WhyR2019.pdf">PepBay: Implementation of Bayesian inference in the analysis of peptide arrays</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
@@ -198,12 +198,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Anna Kozak</td>
-    <td><a href="">vivo: Is it Victoria In Variable impOrtance detection?</a></td>
+    <td><a href="./Lightnings/Kozak_Anna_vivo.pdf">vivo: Is it Victoria In Variable impOrtance detection?</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Rafal Wozniak</td>
-    <td><a href="">What we don't have but need. Some missing R functions in teaching econometrics</a></td>
+    <td><a href="./Lightnings/RWozniak_whyR_2019_Lightning.pdf">What we don't have but need. Some missing R functions in teaching econometrics</a></td>
   </tr>
   
    <tr>
@@ -214,7 +214,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Modelling</td>
     <td>Michał Podsiadło</td>
-    <td><a href="">Investment Portfolio Optimization</a></td>
+    <td><a href="./Modelling/Investment Portfolio Optimization.pdf">Investment Portfolio Optimization</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
@@ -224,22 +224,22 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Modelling</td>
     <td>Ken Benoit, Damian Rodziewicz</td>
-    <td><a href="">NLP models for the masses with the Quanteda package and a Shiny interface</a></td>
+    <td><a href="./Modelling/nlp_models_for_masses.md.pptx">NLP models for the masses with the Quanteda package and a Shiny interface</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
     <td>Adam Bień</td>
-    <td><a href="">Detecting topics in civil service job offers using Latent Dirichlet Allocation model</a></td>
+    <td><a href="./Modelling/WhyR_prezentacja_Bie_.pdf">Detecting topics in civil service job offers using Latent Dirichlet Allocation model</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
     <td>Matteo Fasiolo</td>
-    <td><a href="">Generalized additive models for short-term electricity demand forecasting</a></td>
+    <td><a href="./Modelling/GAMs_for_demand_forecasting.pdf">Generalized additive models for short-term electricity demand forecasting</a></td>
   </tr>
   <tr>
     <td>Modelling</td>
     <td>Tamas Burghard</td>
-    <td><a href="">Using categorical embeddings (deep learning) in boosting models</a></td>
+    <td><a href="./Modelling/Tamas_Burghard_why-r-2019-categorical-embeddings.pdf">Using categorical embeddings (deep learning) in boosting models</a></td>
   </tr>
   
   <tr>
@@ -303,12 +303,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Vision</td>
     <td>Michel Voss</td>
-    <td><a href="">Detection of solar panels based on aerial images using deep learning</a></td>
+    <td><a href="./Vision/met_kolektory_panele_ang.pdf">Detection of solar panels based on aerial images using deep learning</a></td>
   </tr>
   <tr>
     <td>Vision</td>
     <td>Lubomir Stepanek</td>
-    <td><a href="">Facial landmarking made (possible and) easy with R!</a></td>
+    <td><a href="./Vision/_stepanek_talk_presentation_29_09_2019_.pdf">Facial landmarking made (possible and) easy with R!</a></td>
   </tr>
   <tr>
     <td>Vision</td>
@@ -318,13 +318,13 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Vision</td>
     <td>Michal Maj</td>
-    <td><a href="https://github.com/WhyR2019/presentations/tree/master/Vision/Semantic%20segmentation%20-%20Whyr2019%20-%20Micha%C5%82%20Maj">Semantic segmentation using U-Net with R</a></td>
+    <td><a href="./Vision/Semantic segmentation WhyR2019.pptx">Semantic segmentation using U-Net with R</a></td>
   </tr>
   
   <tr>
     <td>XAI</td>
     <td>Szymon Maksymiuk</td>
-    <td><a href="">Compare predictive models created in different languages with DALEX and friends</a></td>
+    <td><a href="./XAI/Compare predictive models created in different languages with.pptx">Compare predictive models created in different languages with DALEX and friends</a></td>
   </tr>
   <tr>
     <td>XAI</td>
@@ -334,7 +334,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>XAI</td>
     <td>Aleksandra Grudziaz</td>
-    <td><a href="">survxai: how to explain predictions for survival models?</a></td>
+    <td><a href="./XAI/Interpretable survival models.pptx">survxai: how to explain predictions for survival models?</a></td>
   </tr>
 
 </table>
