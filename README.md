@@ -116,7 +116,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>EDA</td>
     <td>Mateusz Staniak</td>
-    <td><a href="">R Tools for Automated Exploratory Data Analysis</a></td>
+    <td><a href="https://github.com/WhyR2019/presentations/blob/master/EDA/staniak_autoEDA.pdf">R Tools for Automated Exploratory Data Analysis</a></td>
   </tr>
   
   <tr>
