@@ -12,7 +12,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Jakub Nowosad</td>
-    <td><a href="">The landscape of spatial data analysis in R</a></td>
+    <td><a href="https://nowosad.github.io/whyr_19/#1">The landscape of spatial data analysis in R</a></td>
   </tr>
   <tr>
     <td>Keynotes</td>
