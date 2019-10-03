@@ -153,7 +153,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Ioan Gabriel Bucur</td>
-    <td><a href="">RUcausal: An R package for Representing Uncertainty in causal discovery</a></td>
+    <td><a href="./Lightnings/whyR_RUcausal_IoanGabrielBucur_fixed.pdf">RUcausal: An R package for Representing Uncertainty in causal discovery</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
@@ -168,17 +168,17 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Patrik Drhlik</td>
-    <td><a href="">Using R6 classes to communicate with a REST API</a></td>
+    <td><a href="./Lightnings/Using_R6_classes.pdf">Using R6 classes to communicate with a REST API</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Dominik Rafacz</td>
-    <td><a href="./Lightnings/presentation.pdf">AmyloGram 2.0: MBO in the prediction of amyloid proteins</a></td>
+    <td><a href="./Lightnings/amylogram_2.pdf">AmyloGram 2.0: MBO in the prediction of amyloid proteins</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Krzysztof Kania</td>
-    <td><a href="./Lightnings/bdl_WhyR_presentation.pptx">bdl: interface and tools to Local Data Bank API</a></td>
+    <td><a href="./Lightnings/bdl.pptx">bdl: interface and tools to Local Data Bank API</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
@@ -188,7 +188,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Agnieszka Otreba-Szklarczyk</td>
-    <td><a href="">R in marketing surveys - how to speed up the analysis of open ended questions</a></td>
+    <td><a href="R_in_marketing.pptx">R in marketing surveys - how to speed up the analysis of open ended questions</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
@@ -198,12 +198,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Lightnings</td>
     <td>Anna Kozak</td>
-    <td><a href="./Lightnings/Kozak_Anna_vivo.pdf">vivo: Is it Victoria In Variable impOrtance detection?</a></td>
+    <td><a href="./Lightnings/vivo.pdf">vivo: Is it Victoria In Variable impOrtance detection?</a></td>
   </tr>
   <tr>
     <td>Lightnings</td>
     <td>Rafal Wozniak</td>
-    <td><a href="./Lightnings/RWozniak_whyR_2019_Lightning.pdf">What we don't have but need. Some missing R functions in teaching econometrics</a></td>
+    <td><a href="./Lightnings/what_we_dont_have.pdf">What we don't have but need. Some missing R functions in teaching econometrics</a></td>
   </tr>
   
    <tr>
