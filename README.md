@@ -27,7 +27,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Sigrid Keydana</td>
-    <td><a href="">tfprobably correct - adding uncertainty to deep learning with TensorFlow Probability</a></td>
+    <td><a href="http://rpubs.com/zkajdan/533047">tfprobably correct - adding uncertainty to deep learning with TensorFlow Probability</a></td>
   </tr>
   <tr>
     <td>Keynotes</td>
@@ -37,7 +37,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Keynotes</td>
     <td>Wit Jakuczun</td>
-    <td><a href="">Always Be Deploying. How to make R great for machine learning in (not only) Enterprise</a></td>
+    <td><a href="./Keynotes/20190929_WhyR_ABD_Wit_Jakuczun.pdf">Always Be Deploying. How to make R great for machine learning in (not only) Enterprise</a></td>
   </tr>
   
   <tr>
