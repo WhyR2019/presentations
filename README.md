@@ -64,17 +64,17 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>BIO</td>
     <td>Olga Kaminska</td>
-    <td><a href="">Machine Learning usage for prediction of state change in bipolar disorder</a></td>
+    <td><a href="./BIO/BipolarDisorder_whyR_28_09.pdf">Machine Learning usage for prediction of state change in bipolar disorder</a></td>
   </tr>
   <tr>
     <td>BIO</td>
     <td>Leon Eyrich Jessen</td>
-    <td><a href="">Tidysq for Working with Biological Sequence Data in ML Driven Epitope Prediction in Cancer Immunotherapy</a></td>
+    <td><a href="./BIO/20190928_whyr_2019_talk_tidysq_red_size.pdf">Tidysq for Working with Biological Sequence Data in ML Driven Epitope Prediction in Cancer Immunotherapy</a></td>
   </tr>
   <tr>
     <td>BIO</td>
     <td>Jagoda Glowacka</td>
-    <td><a href="">Multicenter study, 33 TB of data and the goal: predicting epilepsy</a></td>
+    <td>Multicenter study, 33 TB of data and the goal: predicting epilepsy</td>
   </tr>
   <tr>
     <td>BIO</td>
@@ -90,7 +90,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Business</td>
     <td>Artur Suchwałko</td>
-    <td><a href="">How R helps us with delivering Machine Learning projects</a></td>
+    <td><a href="./Business/quantup.pdf">How R helps us with delivering Machine Learning projects</a></td>
   </tr>
   <tr>
     <td>Business</td>
@@ -100,7 +100,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Business</td>
     <td>Francois Jacquet</td>
-    <td><a href="">R for Entrepreneurs : supply chain automation case</a></td>
+    <td>R for Entrepreneurs : supply chain automation case</td>
   </tr>
   
   <tr>
@@ -122,12 +122,12 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>GEO</td>
     <td>Krystian Andruszek</td>
-    <td><a href="">Features of districts of Warsaw visible from space</a></td>
+    <td><a href="WhyR2019_pres.pdf">Features of districts of Warsaw visible from space</a></td>
   </tr>
   <tr>
     <td>GEO</td>
     <td>Çizmeli Servet Ahmet</td>
-    <td><a href="">Geospatial data analysis and visualization in R</a></td>
+    <td>Geospatial data analysis and visualization in R</td>
   </tr>
   <tr>
     <td>GEO</td>
@@ -250,55 +250,55 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Philosophy</td>
     <td>Colin Fay</td>
-    <td><a href="">R & MicroService</a></td>
+    <td>R & MicroService</td>
   </tr>
   <tr>
     <td>Philosophy</td>
     <td>Olga Mierzwa-Sulima</td>
-    <td><a href="">Traits of a world-class data scientist</a></td>
+    <td>Traits of a world-class data scientist</td>
   </tr>
   
   <tr>
     <td>Scoring</td>
     <td>Michal Rudko</td>
-    <td><a href="">Experiment management using mlflow and R</a></td>
+    <td>Experiment management using mlflow and R</td>
   </tr>
   <tr>
     <td>Scoring</td>
-    <td>Jacek Wolak</td>
-    <td><a href="">Forecasting rental prices of flats in Krakow</a></td>
+    <td>Jacek Wolak, Mateusz Jałocha</td>
+    <td>Forecasting rental prices of flats in Krakow</td>
   </tr>
   <tr>
     <td>Scoring</td>
     <td>Karol Klimas</td>
-    <td><a href="">Predict, vote and elect with R</a></td>
+    <td>Predict, vote and elect with R</td>
   </tr>
   
   <tr>
     <td>Shiny</td>
     <td>Pawel Sakowski</td>
-    <td><a href="">A Shiny Real-time Application for Backtesting Investment Strategies on Regulated and Crypto Markets</a></td>
+    <td>A Shiny Real-time Application for Backtesting Investment Strategies on Regulated and Crypto Markets</td>
   </tr>
   <tr>
     <td>Shiny</td>
     <td>Jakub Małecki, Jakub Stepniak</td>
-    <td><a href="">Challenges of Shiny application development at scale</a></td>
+    <td>Challenges of Shiny application development at scale</td>
   </tr>
   <tr>
     <td>Shiny</td>
     <td>Theo Roe</td>
-    <td><a href="">Improving the communication of environmental data using Shiny</a></td>
+    <td>Improving the communication of environmental data using Shiny</td>
   </tr>
   <tr>
     <td>Shiny</td>
     <td>Tomasz Koc, Piotr Wójcik</td>
-    <td><a href="">Shiny application for algorithmic trading</a></td>
+    <td>Shiny application for algorithmic trading</td>
   </tr>
   
   <tr>
     <td>Vision</td>
     <td>Olgun Aydin</td>
-    <td><a href="">A Case Study for Image Classification using Transfer Learning</a></td>
+    <td>A Case Study for Image Classification using Transfer Learning</td>
   </tr>
   <tr>
     <td>Vision</td>
@@ -318,7 +318,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Vision</td>
     <td>Michal Maj</td>
-    <td><a href="./Vision/Semantic segmentation WhyR2019.pptx">Semantic segmentation using U-Net with R</a></td>
+    <td><a href="./Vision/Semantic segmentation WhyR2019.pdf">Semantic segmentation using U-Net with R</a></td>
   </tr>
   
   <tr>
@@ -334,7 +334,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>XAI</td>
     <td>Aleksandra Grudziaz</td>
-    <td><a href="./XAI/Interpretable survival models.pptx">survxai: how to explain predictions for survival models?</a></td>
+    <td><a href="./XAI/Interpretable survival models.pdf">survxai: how to explain predictions for survival models?</a></td>
   </tr>
 
 </table>
