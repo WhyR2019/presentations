@@ -292,13 +292,13 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Shiny</td>
     <td>Tomasz Koc, Piotr Wójcik</td>
-    <td>Shiny application for algorithmic trading</td>
+    <td><a href="./Shiny/AlgoTrad_WhyR2019.pdf>Shiny application for algorithmic trading</a></td>
   </tr>
   
   <tr>
     <td>Vision</td>
     <td>Olgun Aydin</td>
-    <td>A Case Study for Image Classification using Transfer Learning</td>
+    <td><a href="./Vision/use_case_transfer_learning.pptx>A Case Study for Image Classification using Transfer Learning</a></td>
   </tr>
   <tr>
     <td>Vision</td>
