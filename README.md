@@ -10,6 +10,16 @@ This repository consist of presentations prepared by the authors.
   </tr>
   
   <tr>
+    <td>Opening</td>
+    <td>Marcin Kosiński, Michał Burdukiewicz, Piotr Wójcik</td>
+    <td><a href="./Opening_and_Closing/opening.pdf">Why R? 2019 Opening Session</a></td>
+  </tr>
+  <tr>
+    <td>Closing</td>
+    <td>Marcin Kosiński, Michał Burdukiewicz, Piotr Wójcik</td>
+    <td><a href="./Opening_and_Closing/closing.pdf">Why R? 2019 Closing Session</a></td>
+  </tr>
+  <tr>
     <td>Keynotes</td>
     <td>Jakub Nowosad</td>
     <td><a href="https://nowosad.github.io/whyr_19/#1">The landscape of spatial data analysis in R</a></td>
