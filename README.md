@@ -260,7 +260,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Philosophy</td>
     <td>Colin Fay</td>
-    <td>R & MicroService</td>
+    <td><a href="https://speakerdeck.com/colinfay/r-and-microservices">R & MicroService</a></td>
   </tr>
   <tr>
     <td>Philosophy</td>
