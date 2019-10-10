@@ -339,7 +339,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>XAI</td>
     <td>Blazej Kochanski</td>
-    <td><a href="">Benefits of better credit scoring</a></td>
+    <td><a href="./XAI/WHYR_pres_BKochanski.pdf">Benefits of better credit scoring</a></td>
   </tr>
   <tr>
     <td>XAI</td>
