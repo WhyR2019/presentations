@@ -281,7 +281,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Scoring</td>
     <td>Karol Klimas</td>
-    <td>Predict, vote and elect with R</td>
+  <td><a href="./Scoring/klimas.pdf>"Predict, vote and elect with R</a></td>
   </tr>
   
   <tr>
