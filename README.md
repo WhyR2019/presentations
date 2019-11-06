@@ -265,7 +265,7 @@ This repository consist of presentations prepared by the authors.
   <tr>
     <td>Philosophy</td>
     <td>Olga Mierzwa-Sulima</td>
-    <td>Traits of a world-class data scientist</td>
+    <td><a href=".Philosophy/Traits%20of%20a%20world%20class%20data%20scientist%20WhyR%202019.pdf">Traits of a world-class data scientist</a></td>
   </tr>
   
   <tr>
